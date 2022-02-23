@@ -1,11 +1,19 @@
 <style>
 
+/*background of the intire page*/
+
 body {
     background-color:black;
 }
+
+/*why are your here*/
 
 P { 
     color:white;
     text-align: center;
     font-size: 200%;
 }
+
+/*buton*/
+
+.button{background-color: black}
